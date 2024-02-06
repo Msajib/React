@@ -1,0 +1,33 @@
+.todo-container{
+    margin-top: 20px;
+    background-color: aqua;
+    min-height: 10px;
+}
+.todo-item-lists{
+    padding: 10px;
+    font-size: 24px;
+}
+.todo-selected{
+    color: turquoise;
+}
+.btn{
+    cursor: pointer;
+    border-radius: 20px;
+    padding: 2px 10px;
+}
+.btn:hover {
+    background-color: white red;
+    color: white;
+    font-weight: 900;
+}
+
+.btn-danger{
+    background-color: red;
+    color: white;
+}.btn-success{
+    background-color: green;
+    color: white;
+}
+.btn-right{
+    float: right;
+}
